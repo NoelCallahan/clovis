@@ -62,22 +62,22 @@ algolia_search:
 # ========== Comment ========== #
 # Fill in the field to enable the corresponding comment plugin
 # If you want to add other comment plugin, edit in "custom.ejs"
-comment:
+comment: false
   # Livere  site: https://livere.com/
-  livere_uid: 
+  # livere_uid: 
   # Disqus  site: https://disqus.com/
-  disqus_shortname: 
+  # disqus_shortname: 
   # Gitment  site: https://github.com/imsun/gitment
-  gitment_owner: 
-  gitment_repo: 
-  gitment_client_id: 
-  gitment_client_secret: 
+  # gitment_owner: 
+  # gitment_repo: 
+  # gitment_client_id: 
+  # gitment_client_secret: 
   # Youyan  site: http://www.uyan.cc/
-  youyan_uid: 
+  # youyan_uid: 
   # Valine  site: https://valine.js.org/
-  valine_appId: 
-  valine_appKey: 
-  valine_placeHolder: 
+  # valine_appId: 
+  # valine_appKey: 
+  # valine_placeHolder: 
 
 # ========== Analytics ========== #
 # enable Busuanzi analytics
